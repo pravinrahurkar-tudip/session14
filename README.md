@@ -6,6 +6,7 @@ Hello I am Pravin
 
 #hi pravin -   -- --
 
+<<<<<<< HEAD
 # Good Evening....:)
 
 #mahadev--------
@@ -18,3 +19,5 @@ Hello I am Pravin
 
 #this is pravin
 
+#this is mahadev
+#jwfnksjnjn 
