@@ -16,6 +16,3 @@ Hello I am Pravin
 #hi pravin -   -- --
 
 
-#this is mahadev
- pravin1
-
