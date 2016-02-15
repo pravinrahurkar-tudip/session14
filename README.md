@@ -14,8 +14,3 @@ Hello I am Pravin
 #Good Afternoon
 
 #hi pravin -   -- --
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 96f6744d41847a247452e310fa45df2cd9a08ca0
