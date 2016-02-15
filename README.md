@@ -20,7 +20,5 @@ Hello I am Pravin
 
 #this is pravin
 
-=======
 #this is mahadev
-#jwfnksjnjn
->>>>>>> pravin1
+#jwfnksjnjn 
